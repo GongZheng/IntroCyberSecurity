@@ -2,9 +2,9 @@
 
 * [网络空间安全技术基础](README.md)
 
-* [1 绪论](chapters/Introduction.md)
+* [1 绪论](Chapters/Introduction.md)
 
-* [1.1 网络空间安全背景](chapters/CyberSecBackground.md)
+* [1.1 网络空间安全背景](Chapters/CyberSecBackground.md)
 
 * [1.2 网络空间安全基本定义]
 
